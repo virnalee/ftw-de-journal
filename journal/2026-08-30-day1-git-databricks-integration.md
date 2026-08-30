@@ -3,7 +3,7 @@
 =============================================================================
 
 ## 📝 A. Today in one sentence
-1. Went from confused and scared to successfully cloning a teammate's repo, creating my own branch, and reviewing a groupmate's Pull Request — all in one day.
+1. Went from confused and scared to successfully cloning a teammate's repo, creating my own branch, and reviewing a groupmate's Pull Request--all in one day. Yay!
 
 ## 💡 B. What I learned
 1. Can't push to a repo I don't own.
@@ -53,7 +53,7 @@
 - [ ] Start making my first actual changes/commits on my "virna" branch
 - [ ] Research how to write better PR review comments
 - [ ] Set up a proper images/screenshots folder in the repo (instead of guessing filenames lol)
-- [ ] Start building my own beginner-friendly Git/GitHub dictionary — for non-tech, "old people like me" 😂
+- [ ] Start building my own beginner-friendly Git/GitHub dictionary--for non-tech, "old people like me" 😂
 
 ## ✅ F. Git checkpoint
 - [x] Created my own copy of the repo using "Use this template"
@@ -76,15 +76,18 @@
 1. How I created my branch (Databricks → GitHub): Nella's repo → copied URL → Databricks: Create → Git folder → pasted URL → cloned → clicked "Branch: main" → Create Branch → named "virna" → Create → checked out on my branch → confirmed live on GitHub 🎉
 2. Reviewed and tested Sara's Pull Request "Add Instacart Bronze ingestion" — ran her `ingestion.sql` on her branch, confirmed 6 tables created successfully.
 3. Screenshots:
-
+   ![My branch live on GitHub](images/2026.08.30.01.png)
+   ![Checked raw CSVs in the shared volume](images/2026.08.30.02.png)
+   ![Successful query run - 6 tables created](images/2026.08.30.03.png)
+   ![My review comment on Sara's PR](images/2026.08.30.04.png)
 Note to self: My PR review comment felt a bit basic compared to how proper code reviews are usually written. I want to research good PR review practices and improve how I phrase feedback next time.
 
 ## 🪞 I. Reflection
 1. What felt easy today: Once I saw the visual diagram of how everything connects, the concept finally clicked.
-2. What felt difficult today: Finding the actual shared Databricks workspace — turns out it just had a catalog in it so far, not what I expected.
+2. What felt difficult today: Finding the actual shared Databricks workspace, turns out it just had a catalog in it so far, not what I expected.
 3. What I want to understand better next time: Actually writing and pushing real pipeline code, not just setup and reviewing.
 
-## 💛 J. Pat on my own shoulder
+## 💛 J. Pat on my own shoulder :3
 =============================================================================
 💛 Rebuilding trust in myself, one brave step at a time. 😅
 =============================================================================
