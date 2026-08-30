@@ -22,7 +22,7 @@ Nella's repo → copied URL → Databricks: Create → Git folder → pasted URL
 2. Mixed up cloning, forking, and templates.
    - Clarified: Sir Myk's README pointed to "Use this template"; confirmed via video since I'm a visual learner. ([video](https://www.youtube.com/watch?v=pGLwb5TJphM))
 3. Being added to a workspace ≠ seeing a shared folder.
-   - Clarified: asked an AI in simpler terms; Sara also shared a helpful video. ([video](https://www.youtube.com/watch?v=uljYTx7nzy8))
+   - Clarified: asked an AI in simpler terms and watched videos last night; Sara also shared a helpful video. ([video](https://www.youtube.com/watch?v=uljYTx7nzy8))
    - Turns out the workspace only had a catalog so far.
 4. Wasn't sure if I needed Nella's Git credential to collaborate.
    - Clarified using AI: everyone links their own GitHub account, _never someone else's_.
