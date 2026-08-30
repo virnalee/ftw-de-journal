@@ -3,7 +3,7 @@
 =============================================================================
 
 ## 📝 A. Today in one sentence
-1. Went from confused and scared to successfully cloning a teammate's repo, creating my own branch, and reviewing a groupmate's Pull Request--all in one day. Yay!
+1. Went from confused and scared to successfully cloning a teammate's repo, creating my own branch, and reviewing a groupmate's Pull Request — all in one day.
 
 ## 💡 B. What I learned
 1. Can't push to a repo I don't own.
@@ -17,8 +17,8 @@
 6. Creating a branch in a Databricks Git folder creates it on GitHub too.
    - How: Saw my "virna" branch appear live on Nella's repo. 🥰
 7. Fine-grained tokens scope access to specific repos/permissions, unlike broader classic tokens.
-8. Reviewing a teammate's Pull Request can mean more than reading code... I can check the raw data and run the query myself before approving.
-   - How: Sara sent a DM via Slack re: Bronze ingestion; I checked the source CSVs in the Catalog, switched my Databricks Git folder to her branch, ran her SQL, and confirmed all 6 tables were created successfully with no errors.
+8. Reviewing a teammate's Pull Request can mean more than reading code — I can check the raw data and run the query myself before approving.
+   - How: Sara opened a PR for Bronze ingestion; I checked the source CSVs in the Catalog, switched my Databricks Git folder to her branch, ran her SQL, and confirmed all 6 tables were created successfully with no errors.
 
 ## 📚 C. Terms I am still learning
 1. **Repository (repo)** - a folder online that holds a project's files and its full history of changes.
@@ -53,7 +53,7 @@
 - [ ] Start making my first actual changes/commits on my "virna" branch
 - [ ] Research how to write better PR review comments
 - [ ] Set up a proper images/screenshots folder in the repo (instead of guessing filenames lol)
-- [ ] Start building my own beginner-friendly Git/GitHub dictionary--for non-tech, "old people like me" 😂
+- [ ] Start building my own beginner-friendly Git/GitHub dictionary — for non-tech, "old people like me" 😂
 
 ## ✅ F. Git checkpoint
 - [x] Created my own copy of the repo using "Use this template"
@@ -73,21 +73,28 @@
 2. Assuming Nella's repo stays the shared source of truth for the group's pipeline.
 
 ## 📸 H. Evidence from today
-1. How I created my branch (Databricks → GitHub): Nella's repo → copied URL → Databricks: Create → Git folder → pasted URL → cloned → clicked "Branch: main" → Create Branch → named "virna" → Create → checked out on my branch → confirmed live on GitHub 🎉
+1. 🌿 How I created my branch (Databricks → GitHub): Nella's repo → copied URL → Databricks: Create → Git folder → pasted URL → cloned → clicked "Branch: main" → Create Branch → named "virna" → Create → checked out on my branch → confirmed live on GitHub 🎉
 2. Reviewed and tested Sara's Pull Request "Add Instacart Bronze ingestion" — ran her `ingestion.sql` on her branch, confirmed 6 tables created successfully.
 3. Screenshots:
-   ![My branch live on GitHub](images/2026.08.30.01.png)
-   ![Checked raw CSVs in the shared volume](images/2026.08.30.02.png)
-   ![Successful query run - 6 tables created](images/2026.08.30.03.png)
-   ![My review comment on Sara's PR](images/2026.08.30.04.png)
-Note to self: My PR review comment felt a bit basic compared to how proper code reviews are usually written. I want to research good PR review practices and improve how I phrase feedback next time.
+
+| Description | Screenshot |
+|---|---|
+| My branch live on GitHub | <img src="images/2026.08.30.01.png" width="350"> |
+| Checked raw CSVs in the shared volume — paths and structure matched the query | <img src="images/2026.08.30.02.png" width="350"> |
+| Successful query run — 6 tables created | <img src="images/2026.08.30.03.png" width="350"> |
+| My review comment on Sara's PR | <img src="images/2026.08.30.04.png" width="350"> |
+
+4. Note to self: My PR review comment felt a bit basic compared to how proper code reviews are usually written. I want to research good PR review practices and improve how I phrase feedback next time.
 
 ## 🪞 I. Reflection
 1. What felt easy today: Once I saw the visual diagram of how everything connects, the concept finally clicked.
-2. What felt difficult today: Finding the actual shared Databricks workspace, turns out it just had a catalog in it so far, not what I expected.
+2. What felt difficult today: Finding the actual shared Databricks workspace — turns out it just had a catalog in it so far, not what I expected.
 3. What I want to understand better next time: Actually writing and pushing real pipeline code, not just setup and reviewing.
 
 ## 💛 J. Pat on my own shoulder :3
+
 =============================================================================
+
 💛 Rebuilding trust in myself, one brave step at a time. 😅
+
 =============================================================================
