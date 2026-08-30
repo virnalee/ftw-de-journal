@@ -5,9 +5,9 @@
    - How: Used "Use this template" to make my own copy instead of cloning.
 2. Can edit/commit files in-browser with github.dev.
    - How: Pressed the period key on the repo page.
-3. Databricks "Git folder" ≠ GitHub repo — repo lives on GitHub, each person clones it into their own Databricks Git folder.
+3. Databricks "Git folder" ≠ GitHub repo: _repo lives on GitHub, each person clones it into their own Databricks Git folder_.
    - How: Watched a YouTube guide on Databricks + GitHub integration.
-4. Teammates never push/pull directly into each other's Git folders — everyone syncs through the shared GitHub repo.
+4. Teammates never push/pull directly into each other's Git folders: _everyone syncs through the shared GitHub repo_.
 5. Teams can pair individual git folders with one shared "final pipeline" folder that only pulls from main.
 6. Creating a branch in a Databricks Git folder creates it on GitHub too.
    - How: Saw my "virna" branch appear live on Nella's repo.🥰
@@ -25,7 +25,7 @@ Nella's repo → copied URL → Databricks: Create → Git folder → pasted URL
    - Clarified: asked an AI in simpler terms; Sara also shared a helpful video. ([video](https://www.youtube.com/watch?v=uljYTx7nzy8))
    - Turns out the workspace only had a catalog so far.
 4. Wasn't sure if I needed Nella's Git credential to collaborate.
-   - Clarified using AI: everyone links their own GitHub account — never someone else's.
+   - Clarified using AI: everyone links their own GitHub account, _never someone else's_.
 5. Wasn't sure how to keep a "final" pipeline version safe from edits.
    - Clarified: a Git folder can just stay on main and get pulled periodically.
 
