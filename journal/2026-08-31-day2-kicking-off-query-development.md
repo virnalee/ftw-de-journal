@@ -21,14 +21,15 @@
 - [ ] Finalize the one that works best
 - [ ] Create a new branch in my Git folder (not on main)
 - [ ] Add my finalized query to the correct file in the GitHub folder
-- [ ] Commit and push my changes to my branch
 - [ ] Create a Pull Request to main
 - [ ] Wait for team review before merging
+- [ ] Carried over: Research how to write better PR review comments
+- [ ] Carried over: Start building my own beginner-friendly Git/GitHub dictionary
 
 ## ✅ F. Git checkpoint
 - [ ] I created or updated a file
-- [ ] I wrote a commit
-- [ ] I pushed my changes
+- [ ] I wrote a commit (this is my first actual pipeline code on the "virna" branch)
+- [ ] I pushed my changes to GitHub
 
 ## 🧭 G. Decisions or assumptions
 1. Following Nella's workflow: test → finalize → branch → PR → main.
