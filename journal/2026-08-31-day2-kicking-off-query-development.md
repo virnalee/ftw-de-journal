@@ -10,14 +10,15 @@
 - The difference between "Comment", "Approve", and "Request changes" when submitting a PR review.
 
 ## 📚 C. Terms I am still learning
-- Code block — text wrapped in triple backticks (```) that renders as formatted, syntax-highlighted code in GitHub comments
-- Referential integrity — a check that a foreign key value actually exists in the table it's supposed to reference
-- Orphan row — a row whose foreign key doesn't match any row in the referenced table
-- Review vs. Comment vs. Approve vs. Request changes — the options when submitting a GitHub PR review: "Comment" gives feedback without blocking, "Approve" signals okay-to-merge, "Request changes" blocks merging until addressed
-- Pending comment — a review comment that's saved but not yet visible to others until the review is submitted
+- Code block: text wrapped in triple backticks (```) that renders as formatted, syntax-highlighted code in GitHub comments
+- Referential integrity: a check that a foreign key value actually exists in the table it's supposed to reference
+- Orphan row: a row whose foreign key doesn't match any row in the referenced table
+- Review vs. Comment vs. Approve vs. Request changes: the options when submitting a GitHub PR review: "Comment" gives feedback without blocking, "Approve" signals okay-to-merge, "Request changes" blocks merging until addressed
+- Pending comment: a review comment that's saved but not yet visible to others until the review is submitted
 
 ## 🤔 D. What confused me
-- 
+- Thought Sara was missing an `order_products_test` table since `orders` has eval_set values for prior/train/test.
+- Clarified: checked the raw table list, confirmed only 6 tables exist — test-order line items were never released in this dataset.
 
 ## 🎯 E. One small next step
 - [x] Find the `instacart-test-queries` folder in the Shared Databricks workspace
@@ -56,8 +57,8 @@
 | Description | Screenshot |
 |---|---|
 | Comment on team's shared doc re: dimension model | <img src="images/2026.08.31.01.png" width="350"> |
-| Profiling queries run in our assigned test notebook | <img src="images/2026.08.31.01.png" width="350"> |
-| Review comments submitted on Nella's PR #4  | <img src="images/2026.08.31.01.png" width="350"> |
+| Profiling queries run in our assigned test notebook | <img src="images/2026.08.31.02.png" width="350"> |
+| Review comments submitted on Nella's PR #4  | <img src="images/2026.08.31.03.png" width="350"> |
 
 ## 🪞 I. Reflection
 - What felt easy today: getting used to the interface a bit
