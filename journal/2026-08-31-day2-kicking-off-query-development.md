@@ -15,9 +15,14 @@
 - 
 
 ## 🎯 E. One small next step
-- [ ] Find the `instacart-test-queries` folder in the Shared Databricks workspace
-- [ ] Locate or create my own notebook there
-- [ ] Test a few queries
+- [x] Find the `instacart-test-queries` folder in the Shared Databricks workspace
+- [x] Create my own notebook there
+- [x] Test a few queries in my Test Notebook (raw table checks for all 6 Instacart raw tables)
+- [ ] Identify keys
+- [ ] Identify dimensions
+- [ ] Design the dimension model
+- [ ] Learn how to build the dimension model in the Databricks UI
+- [ ] Business questions
 - [ ] Finalize the one that works best
 - [ ] Create a new branch in my Git folder (not on main)
 - [ ] Add my finalized query to the correct file in the GitHub folder
