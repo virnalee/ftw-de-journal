@@ -70,7 +70,7 @@
 | Approved Nella's PR #7 | <img src="images/2026.09.01.01.png" width="350"> |
 | Pulled main into virna branch before running queries | <img src="images/2026.09.01.02.png" width="350"> |
 | Ran cleaning, mart, and Q1 queries in the test notebook | <img src="images/2026.09.01.03.png" width="350"> |
-| Ran the same queries in my virna branch files | <img src="images/2026.09.01.4.png" width="350"> |
+| Ran the same queries in my virna branch files | <img src="images/2026.09.01.04.png" width="350"> |
 | "Databricks is experiencing heavy load" notice | <img src="images/2026.09.01.05.png" width="350"> |
 | GH007 push rejection - error details | <img src="images/2026.09.01.07.jpeg" width="350"> |
 | The fix!!! <3> | <img src="images/2026.09.01.08.jpeg" width="350"> |
