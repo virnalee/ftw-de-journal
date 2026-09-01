@@ -80,4 +80,4 @@ Note: This fb post caught my attention 😂 And honestly, it’s VERY relevant t
 
 Credits to the original owner of this post. 🙌
 
-<img src="images/2026.09.01.06.png" width="500">
+<img src="images/2026.09.01.06.jpg" width="500">
