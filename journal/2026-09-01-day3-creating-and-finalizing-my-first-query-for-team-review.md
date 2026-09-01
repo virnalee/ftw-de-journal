@@ -75,3 +75,9 @@
 💛 Didn't get to push yet, but everything's clean and ready. That counts for something. 💛
 
 =============================================================================
+
+Note: This fb post caught my attention 😂 And honestly, it’s VERY relevant to what I’ve been doing today… well, almost. 😅
+
+Credits to the original owner of this post. 🙌
+
+<img src="images/2026.09.01.06.png" width="500">
