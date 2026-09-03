@@ -54,6 +54,8 @@
 ## 💛 J. Pat on my own shoulder :3
 
 =============================================================================
-💛I kept showing up even when the tools kept confusing me... that counts for something... right? T.T
+
+💛I kept showing up even when the tools kept confusing me. That counts for something, right? T.T
+
 =============================================================================
 
