@@ -40,17 +40,11 @@
 2. Fixed my schema mistake and committed the corrected query
 3. Tested the department filter on the Q1 dashboard
 
-
 | Description | Screenshot |
 |---|---|
 | Reviewed and gave feedback on Sara's PR #21 | <img src="images/2026.09.03.01.png" width="350"> |
 | Fixed the schema reference and committed the corrected top-products-per-department query | <img src="images/2026.09.03.02.png" width="350"> |
 | Tested the department filter on the Q1 dashboard | <img src="images/2026.09.03.03.png" width="350"> |
-
-|---|---|
-| Reviewed and gave feedback on Sara's PR #21 — suggested splitting status into raw_to_clean_status and clean_to_mart_status | Issue #2 comment on line R18 |
-| Fixed the schema reference and committed the corrected top-products-per-department query | Git panel diff — old query replaced with updated table version |
-| Tested the department filter on the Q1 dashboard | Bar chart filtered to "dry goods pasta" showing top 3 products with labels |
 
 ## 🪞 I. Reflection
 - What felt easy today: Nothing, really — I was careful to give feedback that would genuinely help, but everything today felt like a learning curve. Still getting lost between Workspace, Catalog, Shared, Git folders, and GitHub with all its PRs. But I know all of it is practice.
